@@ -1,0 +1,197 @@
+{
+    "mens":[
+        {
+            "src":"https://img3.junaroad.com/uiproducts/18823173/zoom_0-1670820279.jpg",
+            "category":"New",
+            "price":449,
+            "sprice":460,
+            "offer":"2% off",
+            "name":"V Mart",
+            "id":1
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/18879115/zoom_0-1671203350.jpg",
+            "category":"Trending",
+            "price":299,
+            "sprice":699,
+            "offer":"57% off",
+            "name":"Allen Kniel",
+            "id":2
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/19115502/zoom_0-1672740722.jpg",
+            "category":"Discount",
+            "price":1099,
+            "sprice":1999,
+            "offer":"45% off",
+            "name":"chkokko",
+            "id":3
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/18823207/zoom_0-1670820282.jpg",
+            "category":"New",
+            "price":599,
+            "sprice":600,
+            "offer":"10% off",
+            "name":"V Mart",
+            "id":4
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/19137481/zoom_0-1673071375.jpg",
+            "category":"Trending",
+            "price":2249,
+            "sprice":2560,
+            "offer":"10% off",
+            "name":"Mufti",
+            "id":5
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/19086894/zoom_0-1672840818.jpg",
+            "category":"Discount",
+            "price":1499,
+            "sprice":2199,
+            "offer":"32% off",
+            "name":"Orijean",
+            "id":6
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/18949799/zoom_0-1671800955.jpg",
+            "category":"New",
+            "price":599,
+            "sprice":1999,
+            "offer":"70% off",
+            "name":"Shivam Textiles",
+            "id":7
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/19129948/zoom_0-1672899316.jpg",
+            "category":"Trending",
+            "price":1249,
+            "sprice":2895,
+            "offer":"57% off",
+            "name":"Design Up",
+            "id":8
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/18949796/zoom_0-1671800956.jpg",
+            "category":"Discount",
+            "price":599,
+            "sprice":1999,
+            "offer":"70% off",
+            "name":"Shivam Textiles",
+            "id":9
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/19113700/zoom_0-1672406158.jpg",
+            "category":"New",
+            "price":1699,
+            "sprice":3749,
+            "offer":"55% off",
+            "name":"chkokko",
+            "id":10
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/18874781/zoom_0-1671192596.jpg",
+            "category":"Trending",
+            "price":1199,
+            "sprice":2499,
+            "offer":"52% off",
+            "name":"Waahiba",
+            "id":11
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/18751699/zoom_0-1669965115.jpg",
+            "category":"New",
+            "price":699,
+            "sprice":999,
+            "offer":"30% off",
+            "name":"Aayan Baby",
+            "id":12
+        }
+       
+    ],
+    "womens":[
+        {
+            "src":"https://img3.junaroad.com/uiproducts/12270328/zoom_0-1479121401.jpg",
+            "category":"New",
+            "price":2249,
+            "sprice":2250,
+            "offer":"2% off",
+            "name":"Vp Fashion",
+            "id":13
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/11701300/zoom_0-1474630362.jpg",
+            "category":"Trending",
+            "price":1199,
+            "sprice":2010,
+            "name":"Shree Hinglaj",
+            "offer":"1% off",
+            "id":14
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/11700248/zoom_0-1474546492.jpg",
+            "category":"Discount",
+            "price":2649,
+            "sprice":2686,
+            "name":"Shree Hinglaj",
+            "offer":"1% off",
+            "id":15
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/12273601/zoom_0-1479132078.jpg",
+            "category":"New",
+            "price":4199,
+            "sprice":4220,
+            "name":"Vp Fashion",
+            "offer":"1% off",
+            "id":16
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/11699975/zoom_0-1474546492.jpg",
+            "category":"Trending",
+            "price":4249,
+            "sprice":4263,
+            "name":"Shree Hinglaj",
+            "offer":"1% off",
+            "id":17
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/13372734/zoom_0-1493036616.jpg",
+            "category":"Discount",
+            "price":3849,
+            "sprice":4200,
+            "name":"Ekvira Creation",
+            "offer":"45% off",
+            "id":18
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/12270224/zoom_0-1479121401.jpg",
+            "category":"New",
+            "price":2999,
+            "sprice":3230,
+            "name":"Vp Fashion",
+            "offer":"4% off",
+            "id":19
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/12273605/zoom_0-1479132078.jpg",
+            "category":"Trending",
+            "price":2849,
+            "sprice":2890,
+            "name":"Vp Fashion",
+            "offer":"1% off",
+            "id":20
+        },
+        {
+            "src":"https://img3.junaroad.com/uiproducts/18421023/zoom_0-1656755143.jpg",
+            "category":"Discount",
+            "price":699,
+            "sprice":1295,
+            "name":"Hive91",
+            "offer":"46% off",
+            "id":21
+        }
+
+    ]
+}
