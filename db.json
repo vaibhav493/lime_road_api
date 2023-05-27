@@ -1,8 +1,9 @@
 {
-    "user":[
+    "freelancers":[
     
     ],
-    "data":[
+    "adminData":[
     ],
-    "appointment":[]
+    "other":[],
+    "users":[]
 }
